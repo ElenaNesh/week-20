@@ -1,0 +1,18 @@
+body {
+    text-align: center;
+}
+.searching-field {
+    display: flex;
+    flex-direction: row;
+    margin: auto;
+    gap: 1rem;
+    justify-content: center;
+    width: 80vw;
+    height: 5vh;
+}
+
+#whom, #number{
+    width: 30%;
+}
+
+#search-btn {width: 20%;}
