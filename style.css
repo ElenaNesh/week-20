@@ -14,5 +14,7 @@ body {
 #whom, #number{
     width: 30%;
 }
-
+.searching-errors {
+    color: red;
+}
 #search-btn {width: 20%;}
